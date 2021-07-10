@@ -1,0 +1,44 @@
+/*-----------------------------------------------------------------------------------
+
+    Website Name: JaireSmith 2021- Personal Resume & CV Template
+     Website URI: JaireSmith.com
+    Description: 2021 Personal Resume & CV Template
+    Author: EngineerJaire
+    Author URI: https://JaireSmith.com/
+    Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1.COMMON
+	2.HEADER
+    3.ABOUT
+    4.SERVICES
+    4.CALL TO ACTION
+    5.WORK
+    6.PRICING
+    7.BLOG
+    8.CONTACT
+    9.FOOTER
+    10.PAGE BANNER
+    10.SINGLE BLOG PAGE
+
+-----------------------------------------------------------------------------------*/
+
+
+@import 'variables';
+@import 'mixin';
+@import 'common';
+@import 'header';
+@import 'about';
+@import 'services';
+@import 'call-to-action';
+@import 'work';
+@import 'pricing';
+@import 'blog';
+@import 'contact';
+@import 'footer';
+@import 'page-banner';
+@import 'single-blog-page';
